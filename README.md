@@ -1,5 +1,5 @@
-
-# 🛠 EthStorage V1 Trusted Setup Ceremony
+Easy Guide
+# 🛠 EthStorage V1 Trusted Setup Ceremony.
 **Purpose:** Generate secure zk-SNARK parameters for EthStorage’s circuits, ensuring transparency, decentralization, and long-term security for the entire community.
 
 <img width="1500" height="840" alt="image" src="https://github.com/user-attachments/assets/0b5fa0a6-9e3a-4353-a739-27c8dd9943da" />
